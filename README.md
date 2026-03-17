@@ -23,4 +23,4 @@ Veronica is an AI-based desktop voice assistant developed using Python. It can p
 - Add more intelligent responses
 - Integrate with APIs
 - Improve accuracy
--<img width="1090" height="635" alt="Screenshot 2025-11-27 123243" src="https://github.com/user-attachments/assets/1927210c-01e4-4f7a-a3b2-65dc55419668" />
+
